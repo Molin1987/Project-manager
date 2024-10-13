@@ -2,10 +2,34 @@ body {
     font-family: Arial, sans-serif;
 }
 
+/* Шапка */
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header .navbar-brand img {
+    vertical-align: middle;
+}
+
+header .navbar-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+header .navbar-nav .nav-link {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+/* Sidebar */
 .sidebar {
     height: 100vh;
-    position: fixed;
-    top: 0;
+    /* position: fixed; */
+    top: 60px; /* Отступ для шапки */
     left: 0;
     width: 250px;
     background-color: #343a40;
@@ -24,31 +48,29 @@ body {
     background-color: #495057;
 }
 
+/* Основной контент */
 .content {
     margin-left: 250px;
     padding: 20px;
+    margin-top: 60px; /* Отступ для шапки */
 }
 
-.priority-low {
-    color: green;
-}
-
-.priority-medium {
-    color: yellow;
-}
-
-.priority-high {
-    color: red;
-}
-
+/* Адаптивность */
 @media (max-width: 768px) {
     .sidebar {
         width: 100%;
         height: auto;
         position: relative;
+        top: 0;
     }
 
     .content {
         margin-left: 0;
+        margin-top: 60px; /* Отступ для шапки */
     }
+}
+
+.all-content{
+    display: flex;
+    
 }
