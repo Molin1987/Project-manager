@@ -1,0 +1,130 @@
+[2024-10-22 04:56:33] production.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 04:56:57] production.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 04:57:55] production.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:03:52] production.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:04:05] production.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:05:22] local.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:05:54] local.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:09:45] local.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:09:49] local.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
+[2024-10-22 05:09:52] local.ERROR: The C:\OSPanel\domains\Project-manager\project-manager-back\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\bootstrap\\cache directory must be present and writable. at C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(137): Illuminate\\Foundation\\PackageManifest->write()
+#1 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config()
+#4 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(242): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap()
+#6 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#7 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\OSPanel\\domains\\Project-manager\\project-manager-back\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#9 {main}
+"} 
